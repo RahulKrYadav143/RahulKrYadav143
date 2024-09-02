@@ -6,7 +6,7 @@
 
 - 📫 How to reach me **rahulkryadav841426@gmail.com**
 
-- 📄 Know about my experiences [file:///C:/Users/91979/Downloads/Rahul_Kumar_Yadav_CV.pdf](file:///C:/Users/91979/Downloads/Rahul_Kumar_Yadav_CV.pdf)
+- 📄 Know about my experiences https://drive.google.com/drive/folders/1ZzghLm2QxHmKbIOOW6FrnlD2HlWQEQYZ
 
 - ⚡ Fun fact **I am Funny😀**
 
