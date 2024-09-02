@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Rahul Kumar Yadav</h1>
 <h3 align="center">A passionate Data Science Engineer from India</h3>
-<img align="right" alt="coding" width="400" src>"https://images.app.goo.gl/4Pr6CnaKvDWiaV1FA"
+<img align="right" alt="coding" width="400" src>"https://images.app.goo.gl//HK7fSiHcBH5QZFVKA"
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rahulkryadav143&label=Profile%20views&color=0e75b6&style=flat" alt="rahulkryadav143" /> </p>
 
