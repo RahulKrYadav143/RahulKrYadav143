@@ -6,8 +6,7 @@
 
 - 📫 How to reach me **rahulkryadav841426@gmail.com**
 
-- 📄 Know about my experiences Click Here(https://github.com/user-attachments/assets/5769cd01-a2c1-465e-a7e2-43914c9af952)
- https://drive.google.com/drive/home
+- 📄 Know about my experiences Click Here https://drive.google.com/drive/home
 - ⚡ Fun fact **I am Funny😀**
 
 <h3 align="left">Connect with me:</h3>
